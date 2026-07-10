@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SHARIPOV_RINAT_GUN40.sln"
+    "dotnet.defaultSolution": "HomeWork.sln"
 }
